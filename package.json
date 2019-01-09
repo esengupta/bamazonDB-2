@@ -1,0 +1,24 @@
+{
+  "name": "bamazondb-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazondb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esengupta/bamazonDB-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esengupta/bamazonDB-2/issues"
+  },
+  "homepage": "https://github.com/esengupta/bamazonDB-2#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
