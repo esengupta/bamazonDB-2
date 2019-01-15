@@ -23,3 +23,16 @@ View Low Inventory -- shows the manager a list of items with an inventory of < 5
 Add to Inventory -- allows the manager to select a given product and add additional inventory.
 
 Add New Product -- allows the manager to add new products to the database.
+
+![bamazonDB2](/images/bamazondbJS.PNG)
+![bamazonDB2](/images/bamazondbJS1.PNG)
+![bamazonDB2](/images/bamazondbJS2.PNG)
+![bamazonDB2](/images/bmznmngrJS.PNG)
+![bamazonDB2](/images/bmznmngrJS1.PNG)
+![bamazonDB2](/images/bmznmngrJS2.PNG)
+![bamazonDB2](/images/bmznmngrJS3.PNG)
+![bamazonDB2](/images/bmznmngrJS4.PNG)
+
+
+
+
