@@ -2,7 +2,7 @@
 ## Require npm packages:-
 * mysql
 * inquirer
-* table
+* cli-table
   
 ### bamazonBD-2 Description:-
 This application is a command-line storefront built in Node.js and powered by MySQL. The application presents two interfaces: Customer and Manager.
